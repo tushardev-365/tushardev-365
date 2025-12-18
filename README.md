@@ -5,11 +5,6 @@
 </p>
 
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tushar-dev-981988396/))
-[![X](https://img.shields.io/badge/-X-black?logo=x&logoColor=white)]([https://x.com/yourhandle](https://x.com/CloudGrandpa))
-[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&logoColor=white)](mailto:backendbytushar@gmail.com)
-
 ## 👨‍💻 About Me
 · 💼 Full Stack Dev with a backend-first mindset  
 · 🧠 Passionate about building scalable APIs, databases, and cloud-native web applications  
@@ -17,14 +12,15 @@
 · 📊 Currently expanding into AI/ML and Web3 to build intelligent, future-ready systems  
 · ☕ Fun fact: When I feel drained/tired/energyless, I GO ON A HIKE AND IT FUELS ME TO THE BRIM. Sorry for shouting. ;)
 
+
 ## 🚀 What I’m Currently Up To
 · 🌱 Developing backend-driven full-stack projects with Node.js, REST APIs, MongoDB, and PostgreSQL  
 · ☁️ Learning cloud-native patterns, deployments, and scalable architectures  
 · 🤖 Exploring AI/LLM integrations in modern web applications  
 · 📚 Sharpening DSA, system design basics, and core backend concepts
 
-### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
@@ -69,7 +65,7 @@ Git · Postman · Jenkins · Agile · TDD · Unit Testing
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushardev-365&layout=compact" />
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/tushar-dev-981988396/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/CloudGrandpa" target="_blank"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:yourname@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tushardev-365" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> ⭐️ If you like my work, feel free to star some repos and connect! </p>
+<p align="center"> <a href="https://www.linkedin.com/in/tushar-dev-981988396/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/CloudGrandpa" target="_blank"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:backendbytushar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tushardev-365" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> ⭐️ If you like my work, feel free to star some repos and connect! </p>
 
 
 
