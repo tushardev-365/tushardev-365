@@ -5,6 +5,7 @@
 </p>
 
 
+
 ## 👨‍💻 About Me
 · 💼 Full Stack Dev with a backend-first mindset  
 · 🧠 Passionate about building scalable APIs, databases, and cloud-native web applications  
@@ -13,11 +14,13 @@
 · ☕ Fun fact: When I feel drained/tired/energyless, I GO ON A HIKE AND IT FUELS ME TO THE BRIM. Sorry for shouting. ;)
 
 
+
 ## 🚀 What I’m Currently Up To
 · 🌱 Developing backend-driven full-stack projects with Node.js, REST APIs, MongoDB, and PostgreSQL  
 · ☁️ Learning cloud-native patterns, deployments, and scalable architectures  
 · 🤖 Exploring AI/LLM integrations in modern web applications  
 · 📚 Sharpening DSA, system design basics, and core backend concepts
+
 
 
 ## 🛠️ Tech Stack
@@ -53,6 +56,7 @@
 
 **Tools & Practices:**  
 Git · Postman · Jenkins · Agile · TDD · Unit Testing
+
 
 
 ## 📈 GitHub Stats
