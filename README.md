@@ -20,7 +20,7 @@
 · 📚 Sharpening DSA, system design basics, and core backend concepts
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
