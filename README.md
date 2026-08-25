@@ -1,75 +1,179 @@
-<h1 align="center">Hi there, Tushar here! 👋</h1>
-<h3 align="center">Software Engineer · Backend and Cloud · Building scalable systems</h3>
+<h1 align="center">Hi, I'm Tushar 👋</h1>
+
+<h3 align="center">Software Engineer · Backend-focused Full Stack · Open Source Contributor</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+REST+APIs;MongoDB+%7C+PostgreSQL;Appwrite+%7C+Cloudinary;AI+%2F+ML+Enthusiast;Exploring+Web3+%26+Blockchain;Building+real-world+projects+every+day+🚀" />
+  <a href="https://tusharpagar.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tushar-dev-981988396/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:backendbytushar@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/CloudGrandpa">X</a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+backend-heavy+full-stack+systems;TypeScript+%7C+Python+%7C+Node.js+%7C+PostgreSQL;APIs+%7C+Databases+%7C+Cloud+%7C+Distributed+Systems;Contributing+to+real-world+open-source+projects" alt="Typing animation" />
+</p>
 
+---
 
 ## 👨‍💻 About Me
-· 💼 Full Stack Dev with a backend-first mindset  
-· 🧠 Passionate about building scalable APIs, databases, and cloud-native web applications  
-· ⚙️ Tech focus: Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, Prisma, Appwrite, AWS  
-· 📊 Currently expanding into AI/ML and Web3 to build intelligent, future-ready systems  
-· ☕ Fun fact: When I feel drained/tired/energyless, I GO ON A HIKE AND IT FUELS ME TO THE BRIM. Sorry for shouting. ;)
 
+I'm a software engineer who enjoys building **backend-heavy full-stack applications**, designing APIs, working with databases, and solving problems that sit between application code and infrastructure.
 
+My strongest interests are:
 
-## 🚀 What I’m Currently Up To
-· 🌱 Developing backend-driven full-stack projects with Node.js, REST APIs, MongoDB, and PostgreSQL  
-· ☁️ Learning cloud-native patterns, deployments, and scalable architectures  
-· 🤖 Exploring AI/LLM integrations in modern web applications  
-· 📚 Sharpening DSA, system design basics, and core backend concepts
+* Building reliable APIs and production web applications
+* PostgreSQL, database-driven systems and backend architecture
+* TypeScript / Node.js and Python-based development
+* Cloud infrastructure, CI/CD and containerized deployments
+* Distributed systems and asynchronous workflows
+* Contributing fixes and improvements to open-source software
 
+I also enjoy taking a problem apart, understanding how the underlying system works, and contributing a fix upstream rather than stopping at a local workaround.
 
+---
 
-## 🛠️ Tech Stack
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![Java](https://img.shields.io/badge/Java-black?logo=openjdk)
-![C++](https://img.shields.io/badge/C++-black?logo=cplusplus)
-![Go](https://img.shields.io/badge/Go-black?logo=go)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+## 🌎 Open Source
 
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+One of the things I'm most interested in is contributing to software that people actually use.
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Redux](https://img.shields.io/badge/Redux-black?logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss)
+### Recent contributions
 
-**Databases & Messaging:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
-![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
+| Project                                                                 | Contribution                                                                                                 |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **[Medusa](https://github.com/medusajs/medusa)**                        | [Fix migration skip handling — PR #16467](https://github.com/medusajs/medusa/pull/16467)                     |
+| **[Medusa](https://github.com/medusajs/medusa)**                        | [Fix batched query failures hanging indefinitely — PR #16469](https://github.com/medusajs/medusa/pull/16469) |
+| **[Medusa](https://github.com/medusajs/medusa)**                        | [Fix product export truncation — PR #16459](https://github.com/medusajs/medusa/pull/16459)                   |
+| **[Medusa](https://github.com/medusajs/medusa)**                        | [Normalize locale script subtags — PR #16456](https://github.com/medusajs/medusa/pull/16456)                 |
+| **[Supabase Splinter](https://github.com/supabase/splinter)**           | [Add unused replication slot lint — PR #174](https://github.com/supabase/splinter/pull/174)                  |
+| **[Supabase Postgres Meta](https://github.com/supabase/postgres-meta)** | [Python type generator issue — #1088](https://github.com/supabase/postgres-meta/issues/1088)                 |
+| **[supabase-py](https://github.com/supabase/supabase-py)**              | [SDK compliance workflow — PR #1540](https://github.com/supabase/supabase-py/pull/1540)                      |
+| **[Video.js](https://github.com/videojs/video.js)**                     | [CI maintenance — PR #9221](https://github.com/videojs/video.js/pull/9221)                                   |
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-black?logo=terraform)
+> I enjoy contributing across the stack — from application-level fixes to CI, tooling, database behavior and infrastructure-adjacent problems.
 
-**Tools & Practices:**  
-Git · Postman · Jenkins · Agile · TDD · Unit Testing
+---
 
+## 🚀 Featured Work
 
+### 🧮 [Japa-Counter](https://github.com/tushardev-365/Japa-Counter)
 
-## 📈 GitHub Stats
+A minimal, polished web application focused on simplicity and usability.
+
+**Stack:** HTML · CSS · JavaScript
+
+### ⚖️ [c2a](https://github.com/tushardev-365/c2a)
+
+A fully functional web application built as a technical assignment, focused on delivering a complete production-style frontend experience.
+
+**Stack:** TypeScript
+
+### 🐍 [supabase-py](https://github.com/tushardev-365/supabase-py)
+
+My working fork of the official Supabase Python client, where I've worked on issues and improvements upstream.
+
+**Stack:** Python · PostgreSQL · Supabase
+
+### 📈 [SigNoz](https://github.com/tushardev-365/signoz)
+
+My working fork of SigNoz, an open-source observability platform built around OpenTelemetry.
+
+**Stack:** TypeScript · Go · OpenTelemetry
+
+> See my [repositories](https://github.com/tushardev-365?tab=repositories) for more projects and experiments.
+
+---
+
+## 🔭 What I'm Focused On
+
+* Building backend-driven full-stack systems with **TypeScript and Python**
+* Improving my understanding of **distributed systems and system design**
+* Working more deeply with **PostgreSQL, APIs and cloud infrastructure**
+* Contributing consistently to **production open-source projects**
+* Exploring practical **AI/LLM integrations** in software products
+
+---
+
+## ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushardev-365&show_icons=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tushardev-365" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushardev-365&layout=compact" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,postgres,mongodb,redis,kafka,docker,kubernetes,aws,terraform,git,githubactions&perline=9" alt="Technology stack" />
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/tushar-dev-981988396/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/CloudGrandpa" target="_blank"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:backendbytushar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/tushardev-365" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> ⭐️ If you like my work, feel free to star some repos and connect! </p>
+### Languages
 
+`TypeScript` · `JavaScript` · `Python` · `SQL` · `Java` · `C++` · `Go` · `Rust`
 
+### Backend
 
+`Node.js` · `Express` · `Next.js` · `REST APIs` · `PostgreSQL` · `MongoDB` · `Redis` · `Kafka`
+
+### Frontend
+
+`React` · `Next.js` · `Tailwind CSS` · `Redux`
+
+### Cloud & Infrastructure
+
+`AWS` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD`
+
+### Engineering
+
+`Git` · `GitHub Actions` · `Postman` · `Testing` · `TDD` · `API Design` · `System Design`
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushardev-365&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=tushardev-365&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushardev-365&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Top languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushardev-365&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution graph" />
+</p>
+
+---
+
+## 🌱 Outside the Code
+
+When I'm completely drained, I go on a hike.
+
+Apparently that is enough to refill the battery. 🥾
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in conversations around:
+
+**Backend engineering · Open source · Distributed systems · Cloud infrastructure · Developer tools · Building useful software**
+
+<p align="center">
+  <a href="https://tusharpagar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-dev-981988396/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:backendbytushar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/tushardev-365">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build things. Understand how they work. Improve them.</i>
+</p>
