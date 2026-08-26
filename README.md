@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-· 💼 Full Stack Dev who likes touch green.
+· 💼 Full Stack Dev who likes to touch green.
 · 🧠 I enjoy building scalable APIs, databases, and cloud-based applications
 · ⚙️ Tech focus: Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, Prisma, Appwrite, AWS
 · 📊 Currently getting deeper into AI, LLMs, and backend engineering
